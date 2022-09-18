@@ -13,8 +13,12 @@
  ### Main Menu
 ![Hi](/imgs/Pics_3.png)
 
+### Main Menu after Adding New Card
+![Hi](/imgs/Pics_6.png)
+
 ### Opening a Card
 ![Hi](/imgs/Pics_1.png)
+
 
 Card1             |  Card2
 :-------------------------:|:-------------------------:
@@ -27,6 +31,5 @@ Card1             |  Card2
 ### Django Admin Fields
 ![Hi](/imgs/Pics_5.png)
 
-### Main Menu after Adding New Card
-![Hi](/imgs/Pics_6.png)
+
 
